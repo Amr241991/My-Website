@@ -1,0 +1,102 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: "Montserrat", sans-serif;
+}
+.mim {
+  color: red;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
+#list {
+  color: blue;
+
+  /* border-bottom: 5px solid black; */
+}
+#list li {
+  margin-left: 30px;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
+.box {
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 7px #ccc;
+  padding: 10px;
+  width: 260px;
+  margin: 16px;
+  float: left;
+}
+.imgs img {
+  height: 100px;
+  width: 100px;
+}
+.heading {
+  font-size: 50px;
+  font-weight: bold;
+  border-bottom: 5px solid black;
+}
+.imgs {
+  font-size: 50px;
+  font-weight: bold;
+  /* border-bottom: 5px solid black; */
+  /* height: 200px;
+  width: 200px; */
+  display: flex;
+}
+header {
+  background-color: #f5ba13;
+  margin: auto -16px;
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+body {
+  background: #eee;
+  padding: 0 16px;
+}
+header h1 {
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
+div div {
+  /* background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  width: 240px;
+  margin: 16px;
+  float: left; */
+}
+.footer {
+  text-align: center;
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  width: 240px;
+  margin: 16px;
+  float: left;
+}
+.footer p {
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+  font-size: 25px;
+}
+.footer img {
+  text-align: center;
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  width: 240px;
+  margin: 16px;
+  float: left;
+}
